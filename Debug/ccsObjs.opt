@@ -1,0 +1,1 @@
+"./main.obj" "./driverlib/ADS1220.obj" "./driverlib/RTD_Math_1.obj" "./driverlib/usci_spi.obj" "./driverlib/usci_uart.obj" "../lnk_msp430g2513.cmd" -llibc.a 
